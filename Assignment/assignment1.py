@@ -1,3 +1,3 @@
 def pname():
-    print("my namke is deep")
+    print("my name is deep")
 pname()
